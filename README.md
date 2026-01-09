@@ -9,8 +9,7 @@ Rutgers University — Electrical & Computer Engineering (BS '26)
 
 ---
 
-**Resume:** [PDF Link](https://github.com/user-attachments/files/24520291/Seungmin_Baik_Resume.-.2026.pdf)  
+**Resume:** [View PDF](https://raw.githubusercontent.com/<your-username>/<your-repo>/<your-branch>/resume.pdf)  
 **LinkedIn:** https://www.linkedin.com/in/seungmin-baik
 
 </div>
-
