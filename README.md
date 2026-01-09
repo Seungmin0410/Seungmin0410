@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Seungmin0410/Seungmin0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Background / Architecture schematic style -->
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/shape-dark.svg" width="100%" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Seungmin Baik**
+
+### Hardware AI Accelerator Research Assistant  
+### Rutgers University — Electrical & Computer Engineering (BS '26')
+
+**Focus:** PIM • CNN Quantization • Hardware-aware Deep Learning • PyTorch Simulation
+
+<br>
+
+**Resume:** [[PDF Link]](./resume.pdf)  
+**LinkedIn:** https://www.linkedin.com/in/seungmin-baik
+
+<br>
+
+</div>
