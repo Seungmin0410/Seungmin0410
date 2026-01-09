@@ -1,11 +1,11 @@
-<div >
+<div>
 
 # **Seungmin Baik**
 
 **Hardware AI Accelerator Research Assistant**  
 Rutgers University — Electrical & Computer Engineering (BS '26)
 
-**Focus:** PIM • CNN Quantization • Hardware-aware Deep Learning • PyTorch Simulation
+**Focus:** Processing-in-Memory(PIM) • Computing-in-Memory(CIM) Architecture, Hardware-Software co-design • Deep Learning • PyTorch Simulation
 
 ---
 
