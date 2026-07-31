@@ -4,7 +4,7 @@
 
 **Hardware AI Accelerator Research Assistant**  
 Rutgers University — Electrical & Computer Engineering (BS '26)  
-Carnegie Mellon University - Electrical & Computer Engineering (MS '28)
+Carnegie Mellon University — Electrical & Computer Engineering (MS '28)
 
 **Focus:** Processing-in-Memory(PIM) • Computing-in-Memory(CIM) Architecture, Hardware-Software co-design • Deep Learning • PyTorch Simulation
 
